@@ -6,7 +6,7 @@ Streamlit application for testing Scout API model performance across multiple co
 ### What is this repository for? ###
 
 * Visual testing tool for ShotTracker Scout APIs  
-* Allows manual testing of extraction and analysis pipelines  
+* Allows manual testing of extrac analyze, dispatch and aliases APIs  
 * Compares results across models and temperature settings  
 
 * Quick summary
