@@ -1,8 +1,13 @@
-# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# Scout API Test #
+
+Streamlit application for testing Scout API model performance across multiple configurations and scenarios.
 
 ### What is this repository for? ###
+
+* Visual testing tool for ShotTracker Scout APIs  
+* Allows manual testing of extraction and analysis pipelines  
+* Compares results across models and temperature settings  
 
 * Quick summary
 * Version
@@ -10,12 +15,11 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Clone the repository to your local machine
+* Install dependencies listed in `requirements.txt`
+* Run the application using Streamlit:
+  ```bash
+  streamlit run main.py
 
 ### Contribution guidelines ###
 
